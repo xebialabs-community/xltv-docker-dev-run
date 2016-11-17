@@ -6,7 +6,7 @@ if [ -d "/data/build/downloads/plugins" ]; then
 fi
 
 # Copy to plugins
-cp /data/build/lib/*.jar /opt/xltv/server/plugins
+cp /data/build/libs/*.jar /opt/xltv/server/plugins
 
 # Link `ext` folder
 find /data/src/main/resources -maxdepth 1 -mindepth 1 -type d -exec ln -s -f '{}' /opt/xltv/server/ext/ \;

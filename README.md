@@ -5,7 +5,7 @@ After compilation it starts XLTV and links the `ext` folder to your plugin.
 
 # Supported tags #
 
-* `latest`, `v1.4.4.1`
+* `latest`, `v1.4.4.2`
 
 # Starting #
 

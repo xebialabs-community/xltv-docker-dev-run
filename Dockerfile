@@ -1,4 +1,4 @@
-FROM xebialabs/xltv_dev_compile:v1.4.4.1
+FROM xebialabs/xltv-dev-compile:v1.4.4.1
 
 MAINTAINER Joris De Winne <jdewinne@xebialabs.com>
 ENV REFRESHED_AT 2016-11-17
